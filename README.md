@@ -15,7 +15,7 @@ Cisco, Google & TryHackMe Certified
 
 ---
 
-### �️ Key Skills
+### 🐱‍💻 Key Skills
 
 - 🐍 Python, CyberSecurity, MicroPython, Rust
 - 🖥️ Web: React.js, Angular, TypeScript, TailwindCSS, HTML5, CSS3, JavaScript ES6+
