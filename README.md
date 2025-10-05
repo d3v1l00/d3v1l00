@@ -26,9 +26,10 @@ Cisco, Google & TryHackMe Certified
 
 ---
 
-### � Projects & Highlights
+### 🚀 Projects & Highlights
 
-- Building [PyCyberSecurity](https://github.com/takzuin/PyCyberSecurity), [RussianRoulette](https://github.com/Takzuin/RussianRouletteGame) and more coming...
+- [WEB-LANDING-SH-SAS](https://github.com/d3v1l00/WEB-LANDING-SH-SAS) – Web landing page para SH SAS, React.js, diseño moderno y responsivo.
+- [WEB-LANDING-ELECTROREDES-M](https://github.com/d3v1l00/WEB-LANDING-ELECTROREDES-M) – Landing corporativa para ElectroRedes Medellín, React.js, integración de componentes y UX profesional.
 - CTF Player @BugsB0unt3r | Offensive & Defensive Security
 - Front-End Developer | Threat Hunter | IT Support Specialist
 
@@ -36,6 +37,6 @@ Cisco, Google & TryHackMe Certified
 
 ### 📫 Contact
 
-- Telegram: [@d3v1l00](https://t.me/d3v1l00)
+- Email: d3v1l0@proton.me
 
 <!-- Puedes agregar enlaces a tus proyectos destacados aquí -->
