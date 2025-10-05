@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/9a/41/20/9a412030b5e9d064089662fb0c3e9bf8.jpg" width="120px" alt="Hacker Icon" />
+  <img src="https://i.pinimg.com/736x/5e/2e/58/5e2e582ed6b1a7acdd656bcfeec9061a.jpg" width="120px" alt="Hacker Icon" />
 </div>
 
 ---
