@@ -35,6 +35,6 @@ Cisco, Google & TryHackMe Certified
 
 ---
 
-### 📫 Contact
+### 📧 Contact
 
 - Email: d3v1l0@proton.me
