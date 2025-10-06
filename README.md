@@ -21,7 +21,7 @@ Cisco, Google & TryHackMe Certified
 - 🖥️ Web: React.js, Angular, TypeScript, TailwindCSS, HTML5, CSS3, JavaScript ES6+
 - 🦾 Pentesting: Nmap, Burp Suite, Metasploit, Wireshark, Kali Linux, TryHackMe, HTB
 - 🔒 OSINT, OWASP, MITRE ATT&CK, Hardening
-- 🧑‍💻 Git/GitHub, REST APIs, Cloud Integration
+- 👥 Git/GitHub, REST APIs, Cloud Integration
 - 🏆 Google, Cisco, TryHackMe, SENA, MongoDB, BeHackerPro Certified
 
 ---
@@ -38,5 +38,3 @@ Cisco, Google & TryHackMe Certified
 ### 📫 Contact
 
 - Email: d3v1l0@proton.me
-
-<!-- Puedes agregar enlaces a tus proyectos destacados aquí -->
